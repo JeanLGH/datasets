@@ -1,4 +1,4 @@
-Nivel_Humedad_Suelo,Temperatura_Suelo, Soil_Humidity,Tiempo,Temperatura_Aire (C),Velocidad_Viento(Km/h),Humedad_Aire(%),Rafaga_Viento (Km/h),Presion (KPa),Ph,Lluvia,N,P,K,Estado
+Nivel_Agua_Suelo,Temperatura_Suelo,Nivel_Humedad_Suelo,Tiempo,Temperatura_Aire (C),Velocidad_Viento(Km/h),Humedad_Aire(%),Rafaga_Viento (Km/h),Presion (KPa),Ph,Lluvia,N,P,K,Estado
 54,22,70,21,19.52,2.13,55.04,6.3,101.5,6.502985292,202.9355362,90,42,43,ON
 12,20,40,104,19.49,2.01,55.17,10.46,101.5,7.038096361,226.6555374,85,58,41,OFF
 34,26,35,62,19.47,1.9,55.3,14.63,101.51,7.840207144,263.9642476,60,55,44,ON
